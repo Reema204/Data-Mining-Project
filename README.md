@@ -1,3 +1,3 @@
 # Data-Mining-Project
-# project motivation:
-# The primary goal of this project is to utilize the IBM HR Analytics dataset to conduct comprehensive data mining, focusing on employee attrition and performance. By applying the data mining techniques learned during the course , such as clustering, classification, and anomaly detection.we aim to uncover the factors driving employee turnover, refine performance management practices, and ultimately boost both organizational efficiency and employee satisfaction.
+# The primary goal of this project is to utilize the IBM HR Analytics dataset to conduct comprehensive data mining, focusing on employee attrition and performance. By applying the data mining techniques learned during the course , such as clustering, classification, and anomaly detection.we aim to uncover the factors driving employee turnover, refine performance management practices, and ultimately boost both organizational efficiency and employee satisfaction. The IBM HR Analytics dataset is built to offer insights into employee factors, making it a great fit for our project on employee turnover and performance. 
+
